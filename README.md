@@ -1,2 +1,5 @@
 # alns
-Framework Library of Adaptive Large Neighborhood Search
+
+Framework for ALNS ( Adaptive Large Neighborhood Search ).
+
+
